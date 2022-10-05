@@ -9,7 +9,7 @@ A tabuada exibe o resultado com base no número inteiro inserido no input.
 
 Ainda não foi implementado a responsividade neste projeto.<br>
 
-Link do projeto no gitpages: **Projeto ainda não finalizado**
+Link do projeto no gitpages: https://lephyns.github.io/projeto-tabuada
 
 Abaixo tela do projeto: **Projeto ainda não finalizado**
 
